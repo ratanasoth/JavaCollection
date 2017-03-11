@@ -42,7 +42,7 @@ if not found country : result would be : Country name :[countryName] is not foun
 
 public class MyUtils {
     public static void checkDuplicate(Set<String> s, String[] countries] {
-      // write implementation here to display unique counry name with type of Set ex result below....
+      // write implementation here to display unique counry name with type of Set ex result below
 
         }
 }
